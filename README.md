@@ -50,6 +50,6 @@ https://github.com/Screem2020/Conversion
 
 Контакты
 
-Telegram: @Gifffase
+Telegram: https://t.me/Gifffase
 
-Email: [Churin_s@inbox.ru](mailto:Churin_s@inbox.ru)
+Email: Churin_s@inbox.ru
