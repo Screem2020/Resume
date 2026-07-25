@@ -16,6 +16,9 @@ Java Backend Developer
 * Gradle
 * JUnit 5
 * Mockito
+* Kafka
+* Saga
+* Eureka-server
 
 Проекты
 
@@ -41,9 +44,9 @@ https://github.com/Screem2020/Conversion
 
 Что изучаю сейчас
 
-* Kafka
+
 * Микросервисную архитектуру
-* Saga Pattern
+* Linux (рабоота с сетью, портами, процессами, логами, IP/TCP)
 * CI/CD
 * Отказоустойчивые системы
 * High Load Backend
