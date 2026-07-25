@@ -37,13 +37,17 @@ Order Processing System
 Сервис обработки заказов для цементного завода.
 https://github.com/Screem2020/Interactive-sales-system
 
-File Converter Service
+File Converter application
 
-Высоконагруженный сервис конвертации файлов в различные форматы (в разработке).
+Высоконагруженное микросервисное приложение конвертации файлов в различные форматы (в разработке).
 https://github.com/Screem2020/Conversion
+https://github.com/Screem2020/Flow-Manager
+https://github.com/Screem2020/Erueka-Server
+https://github.com/Screem2020/Api-Gateway
 
 Что изучаю сейчас
 
+* API-Gateway
 * Микросервисную архитектуру
 * Linux (работа с сетью, портами, процессами, логами, IP/TCP)
 * CI/CD
